@@ -23,3 +23,15 @@
 .Card-title {
   font-weight: bold;
 }
+
+.backlog {
+  background-color: #e0e0e0; 
+}
+
+.in-progress {
+  background-color: #cce5ff; 
+}
+
+.complete {
+  background-color: #d4edda; 
+}
